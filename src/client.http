@@ -1,0 +1,27 @@
+//defailt route
+
+//GET http://localhost:5000/
+
+
+###
+//GET http://localhost:5000/api/users
+
+
+# ##
+# GET http://localhost:5000/api/users/1
+
+# ###
+# POST http://localhost:5000/api/users
+
+# Content-Type: "application/json"
+# {
+#     "fullName": "Gakenye",
+#     "email": "gakenye@gmail.com",
+#     "password": "gakenye123",
+#     "userType": "admin"
+# }
+# ###
+
+
+
+
